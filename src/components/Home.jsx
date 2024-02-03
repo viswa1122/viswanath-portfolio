@@ -9,7 +9,7 @@ const Home = () => {
       className="min-h-screen flex pt-10 md:flex-row flex-col items-center bg-teal-400"
     >
       <div className="flex-1 flex items-center justify-center h-full">
-        <img src={devops_engineer} alt="" className="md:w-11/12 h-full object-cover" />
+        <AnchorLink href="#home"><img src={devops_engineer} alt="" className="md:w-11/12 h-full object-cover" /></AnchorLink>
       </div>
       <div className="flex-1">
         <div className="md:text-left text-center">
