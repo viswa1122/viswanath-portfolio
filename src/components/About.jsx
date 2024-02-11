@@ -7,6 +7,7 @@ const About = () => {
     { text: "Companies Work", count: "03" },
     { text: "Technical Skills", count: "15+" },
   ];
+  
   return (
     <section id="about" className="pb-10 text-white">
       <div className="text-center mt-8">
