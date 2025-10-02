@@ -23,19 +23,19 @@ function Experience() {
           from_to: "Dec 2021 - Oct 2022",
           social_media: [
             {icon: "logo-instagram", link: "https://www.instagram.com/excellaratetech/?hl=en" },
-            {icon: "logo-linkedin", link: "https://in.linkedin.com/company/excellarate" },
+            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
             {icon: "earth", link: "https://dev.excellarate.com/" },
           ]
         },
         {
-          img: wipro,
-          name: "Wipro",
+          img: hpr,
+          name: "HPR",
           designation: "Software Engineer",
           from_to: "Apr 2019 - Dec 2021",
           social_media: [
-            {icon: "logo-instagram", link: "https://www.instagram.com/wiprolimited/?hl=en" },
-            {icon: "logo-linkedin", link: "https://in.linkedin.com/company/wipro" },
-            {icon: "earth", link: "https://www.wipro.com/" },
+            {icon: "logo-instagram", link: "https://www.instagram.com/hprsynergy?igsh=MWl2c2l2aHY4b3M0eQ==" },
+            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
+            {icon: "earth", link: "https://hprsynergy.com/" },
           ]
         },
       ];
