@@ -45,9 +45,9 @@ function Experience() {
           designation: "Software Engineer",
           from_to: "Jun 2017 - Nov 2018",
           social_media: [
-            {icon: "logo-instagram", link: "https://www.instagram.com/excellaratetech/?hl=en" },
-            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
-            {icon: "earth", link: "https://dev.excellarate.com/" },
+            {icon: "logo-instagram", link: "" },
+            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/cistron-infotek-pvt.-ltd./" },
+            {icon: "earth", link: "" },
           ]
         },       
       ];
