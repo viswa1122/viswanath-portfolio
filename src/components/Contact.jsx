@@ -4,7 +4,7 @@ import aboutImg from "../assets/images/viswa.png";
 
 const Contact = () => {
   const contact_info = [
-    { logo: "mail", text: "nviswanathreddy5998@gmail.com" },
+    { logo: "mail", text: "viswareddy9895@gmail.com" },
     { logo: "logo-whatsapp", text: "+91-8142724121" },
     {
       logo: "location",
