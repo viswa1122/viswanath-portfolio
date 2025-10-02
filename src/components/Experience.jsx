@@ -2,6 +2,7 @@ import React from "react";
 import nuvama from "../assets/images/nuvama.png";
 import excellarate from "../assets/images/excellarate.jpeg";
 import hpr from "../assets/images/hpr.png";
+import cistron from "../assets/images/cistron.png";
 
 function Experience() {
     const companies = [
@@ -30,14 +31,25 @@ function Experience() {
         {
           img: hpr,
           name: "HPR",
-          designation: "Software Engineer",
-          from_to: "Apr 2019 - Dec 2021",
+          designation: "System Engineer",
+          from_to: "Feb 2020 - Mar 2021",
           social_media: [
             {icon: "logo-instagram", link: "https://www.instagram.com/hprsynergy?igsh=MWl2c2l2aHY4b3M0eQ==" },
             {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
             {icon: "earth", link: "https://hprsynergy.com/" },
           ]
         },
+       {
+          img: cistron,
+          name: "Cistron",
+          designation: "Software Engineer",
+          from_to: "Jun 2017 - Nov 2018",
+          social_media: [
+            {icon: "logo-instagram", link: "https://www.instagram.com/excellaratetech/?hl=en" },
+            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
+            {icon: "earth", link: "https://dev.excellarate.com/" },
+          ]
+        },       
       ];
 
   return (
