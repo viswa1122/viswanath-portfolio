@@ -1,7 +1,7 @@
 import React from "react";
 import nuvama from "../assets/images/nuvama.png";
 import excellarate from "../assets/images/excellarate.jpeg";
-import wipro from "../assets/images/wipro.png";
+import wipro from "../assets/images/hpr.png";
 
 function Experience() {
     const companies = [
