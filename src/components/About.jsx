@@ -1,6 +1,6 @@
 import React from "react";
 import aboutImg from "../assets/images/viswa.png";
-import resume from "../assets/viswanath_4+years_DevOps_Resume.pdf"
+import resume from "../assets/viswanath-devops-6-years-resume.pdf"
 const About = () => {
   const info = [
     { text: "Years experience", count: "04+" },
