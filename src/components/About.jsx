@@ -19,7 +19,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-500 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Overall 5+ years of working experience in WS Cloud and DevOps Automation. Experienced cloud and DevOps engineer in automation, configuration and deployment of AWS cloud infrastructure.
+                AWS Cloud & DevOps Engineer with 5+ years of experience in building, automating, and managing scalable cloud infrastructures and CI/CD pipelines. Skilled in designing secure, resilient, and cost-optimized solutions, with strong focus on DevOps, cloud security, automation, and observability. Recognized for improving system reliability and collaborating with cross-functional teams to deliver business-driven results.
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (
