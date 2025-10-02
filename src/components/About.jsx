@@ -3,8 +3,8 @@ import aboutImg from "../assets/images/viswa.png";
 import resume from "../assets/viswanath-devops-6-years-resume.pdf"
 const About = () => {
   const info = [
-    { text: "Years experience", count: "04+" },
-    { text: "Companies Work", count: "03" },
+    { text: "Years experience", count: "05+" },
+    { text: "Companies Work", count: "04" },
     { text: "Technical Skills", count: "15+" },
   ];
   
