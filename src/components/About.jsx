@@ -19,7 +19,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-500 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Overall 5+ years of working experience in Amazon Web Services environment and DevOps. Experienced cloud and DevOps engineer in automation, configuration and deployment of AWS cloud infrastructure.
+                Overall 5+ years of working experience in WS Cloud and DevOps Automation. Experienced cloud and DevOps engineer in automation, configuration and deployment of AWS cloud infrastructure.
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (
