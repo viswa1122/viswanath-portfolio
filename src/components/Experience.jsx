@@ -42,7 +42,7 @@ function Experience() {
        {
           img: cistron,
           name: "Cistron",
-          designation: "Software Engineer",
+          designation: "Associate Engineer",
           from_to: "Jun 2017 - Nov 2018",
           social_media: [
             {icon: "logo-instagram", link: "" },
