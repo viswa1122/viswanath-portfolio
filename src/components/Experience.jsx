@@ -24,7 +24,7 @@ function Experience() {
           from_to: "Dec 2021 - Oct 2022",
           social_media: [
             {icon: "logo-instagram", link: "https://www.instagram.com/excellaratetech/?hl=en" },
-            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/hpr-synergy-engineering-private-limited/" },
+            {icon: "logo-linkedin", link: "https://www.linkedin.com/company/excellarate/" },
             {icon: "earth", link: "https://dev.excellarate.com/" },
           ]
         },
